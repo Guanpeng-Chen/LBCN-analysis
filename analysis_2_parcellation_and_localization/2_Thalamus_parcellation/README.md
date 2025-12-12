@@ -1,0 +1,1 @@
+# Thalamus parcellation's pipeline

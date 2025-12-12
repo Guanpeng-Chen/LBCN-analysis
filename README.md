@@ -40,7 +40,7 @@ Goal: Standardize preprocessing across lab projects.
 
 | Heejung's version | LBCN pipeline adaptation                       | (add URL)        | \[Link](analysis\_preprocessing/heejung\_version) |
 
-| BitFormat version | Pipeline prepared for BitFormat storage        | (add URL)        | \[Link](analysis\_preprocessing/bitformat\_version) |
+| BitFormat version | Pipeline prepared for BitFormat storage        | (add URL)        | https://github.com/LBCN-Stanford/lbcn_preproc/tree/heejung\_preprocessing/bitformat\_version) |
 
 
 
